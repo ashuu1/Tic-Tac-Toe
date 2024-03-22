@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-it is game website made of HTML and CSS and javascript
+it is Tic-Tac-Toe game website made of HTML and CSS and javascript
